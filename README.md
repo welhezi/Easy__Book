@@ -15,7 +15,7 @@ Le site de réservation de l'hôtel Halekulani , "EasyBook", offre une expérien
 
 Le site propose une gamme complète d'options de réservation, allant des chambres standard aux suites de luxe, offrant ainsi aux clients la possibilité de choisir en fonction de leurs préférences et de leurs besoins spécifiques. Des descriptions détaillées des chambres, accompagnées de photos attrayantes, permettent aux visiteurs d'avoir un aperçu précis des installations, des équipements et de l'ambiance offerts par chaque type d'hébergement.
 
-![](captures.site.png)
+![](captures/site.png)
 
 Le processus de réservation est simple et transparent. Les utilisateurs peuvent sélectionner leurs dates de séjour, le nombre d'invités, et accéder à la disponibilité en temps réel des chambres en cliquant sur "book now " sur site 
 
